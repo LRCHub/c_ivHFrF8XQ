@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Cruz de Navajas",
+  "base_artist": "Mecano",
+  "createdAt": "2026-02-13T04:26:22.154278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cruz de Navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/01_Cruz_de_Navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cruz De Navajas",
+      "artist": "Celia Cruz",
+      "has_synced": true,
+      "path": "select/02_Cruz_De_Navajas_Celia_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cruz De Navajas",
+      "artist": "Fey",
+      "has_synced": true,
+      "path": "select/03_Cruz_De_Navajas_Fey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cruz de navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/04_Cruz_de_navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cruz de Navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/05_Cruz_de_Navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cruz de Navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/06_Cruz_de_Navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cruz de Navajas",
+      "artist": "Ana Torroja",
+      "has_synced": true,
+      "path": "select/07_Cruz_de_Navajas_Ana_Torroja.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cruz De Navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/08_Cruz_De_Navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cruz de Navajas",
+      "artist": "Raulin",
+      "has_synced": false,
+      "path": "select/09_Cruz_de_Navajas_Raulin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cruz De Navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/10_Cruz_De_Navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cruz de navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/11_Cruz_de_navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cruz de Navajas",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/12_Cruz_de_Navajas_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cruz De Navajas",
+      "artist": "Video • Mecano",
+      "has_synced": true,
+      "path": "select/13_Cruz_De_Navajas_Video_•_Mecano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cruz de navajas",
+      "artist": "Mecano",
+      "has_synced": false,
+      "path": "select/pl_01_Cruz_de_navajas_Mecano.txt"
+    }
+  ]
+}
